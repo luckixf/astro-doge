@@ -24,6 +24,10 @@
 		"@astrojs/netlify": "^7.0.7",
 		"@astrojs/rss": "4.0.15",
 		"@astrojs/sitemap": "3.7.0",
+<<<<<<< HEAD
+=======
+		"@astrojs/vercel": "^7.1.0",
+>>>>>>> c2e9f850a598fbd0caf50e0ab726b6d1a4373f1b
 		"@fontsource/inter": "^5.2.8",
 		"@fontsource/lora": "^5.2.8",
 		"@tailwindcss/typography": "^0.5.19",
