@@ -1,4 +1,3 @@
-import netlify from '@astrojs/netlify'
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
@@ -13,9 +12,6 @@ import remarkExternalLinks from "./src/lib/remark/remark-external-links.mjs";
 export default defineConfig({
 	site: "https://blog.luckixf.top/",
 	compressHTML: true,
-
-	output: 'server',
-    adapter: netlify(),
 
 	build: {
 		inlineStylesheets: "auto",
