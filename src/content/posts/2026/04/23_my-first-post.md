@@ -1,0 +1,49 @@
+---
+title: 我的第一篇博客
+description: 记录第一次成功搭建属于自己的独立博客
+date: 2026-04-23T10:06:25+08:00
+slug: my-first-post
+draft: false
+---
+
+折腾了大半天，我的个人博客终于搭建完成啦！不得不说，成就感还是满满的。
+
+这是我的第一篇正式博客文章，一时之间也不知道该写些什么，就简单记录一下这次建站的过程吧。
+
+整个网站的搭建，大概花费了一个下午，加上晚上回到寝室后的两个半小时。虽然全程参考了两位大佬的项目，少走了很多弯路，但对我这种新手来说，过程依然充满挑战。
+
+特别感谢以下开源项目：
+- [viki](https://github.com/vikiboss/blog)
+- [dogxi](https://github.com/dogxii/astro-doge)
+
+我并没有系统学习过前端相关知识，对代码的理解也比较浅，所以目前的博客只能算是**勉强能用**，还有很多功能和细节需要完善。
+
+后续计划优化：
+- 增加评论功能
+- 精简页面内容
+- 修复未完成的功能
+~~(希望不要咕咕咕)~~
+
+简单回顾一下这次搭建用到的工具：
+- 域名注册：[NameSilo](https://www.namesilo.com)
+- DNS 与加速代理：[Cloudflare](https://dash.cloudflare.com)
+- Git 可视化工具：[GitKraken](https://gitkraken.dev/)
+- 代码托管：GitHub
+- 网站部署：[Vercel](https://vercel.com/)
+
+期间遇到了最折磨人的问题：**@astrojs/vercel 适配器依赖冲突**，反复尝试了很多次都没能解决，最后只能暂时卸载相关功能，放进待办清单以后慢慢处理。
+
+剩下的也不知道该写些什么了，或许以后可以把这里当成日记来记录生活和学习？
+
+以上内容写于 **凌晨 00:30**，网站搭建完成后的半小时，在 QQ 聊天框里随手敲出来的，哈哈，因为目前还不太会写markdown，也不太方便操作。
+
+<hr>
+<p>第一次写博客，markdown用起来好麻烦＞﹏＜</p>
+<p>最终完成于4/23，10:46</p>
+
+<div class="relative my-10 flex items-center justify-center">
+  <div class="absolute h-px w-full bg-gradient-to-r from-transparent via-stone-200 to-transparent dark:via-stone-700"></div>
+  <span class="relative flex items-center gap-2 bg-stone-50 px-4 text-sm text-stone-400 dark:bg-stone-950 dark:text-stone-500">
+    <span>End</span>
+  </span>
+</div>
