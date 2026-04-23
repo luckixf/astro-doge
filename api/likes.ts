@@ -5,8 +5,8 @@ import {
   getRepoFromEnv,
   hasAnyEnv,
   setCorsHeaders,
-} from '../src/lib/server/api-utils'
-import { getDateKeyInTimeZone } from '../src/lib/server/timezone'
+} from '../src/lib/server/api-utils.js'
+import { getDateKeyInTimeZone } from '../src/lib/server/timezone.js'
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN
 const SITE_TIMEZONE = process.env.SITE_TIMEZONE?.trim() || 'UTC'

@@ -5,11 +5,11 @@ import {
   getSiteUrl,
   hasAnyEnv,
   setCorsHeaders,
-} from '../src/lib/server/api-utils'
+} from '../src/lib/server/api-utils.js'
 import {
   getPathPartsInTimeZone,
   toZonedISOString,
-} from '../src/lib/server/timezone'
+} from '../src/lib/server/timezone.js'
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN
 const THOUGHT_API_TOKEN = process.env.THOUGHT_API_TOKEN

@@ -6,7 +6,7 @@ import {
   hasAnyEnv,
   getSiteUrl,
   setCorsHeaders,
-} from '../src/lib/server/api-utils'
+} from '../src/lib/server/api-utils.js'
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN
 const SITE_URL = getSiteUrl()
