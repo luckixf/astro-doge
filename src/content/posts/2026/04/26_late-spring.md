@@ -10,9 +10,9 @@ draft: false
 
 - - -
 
-><div style="display: flex; gap: 8px; flex-wrap: nowrap; justify-content: flex-start;"> 
-><img src="https://image.luckixf.top/2026/04/26/teaching-building-midday.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="图1"> 
-><img src="https://image.luckixf.top/2026/04/26/classroom-building-sunset.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="图2"> 
+><div style="display: flex; gap: 8px; flex-wrap: nowrap;"> 
+><img src="https://image.luckixf.top/2026/04/26/teaching-building-midday.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="图1"> 
+><img src="https://image.luckixf.top/2026/04/26/classroom-building-sunset.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="图2"> 
 ></div>
 >
 > 偶然拍下的两张照片
@@ -55,18 +55,13 @@ _`光阴荏苒，日月如梭，叹时光飞逝，季春将去`_
 来到海南后，也去看了不少景。还记得去年春夏之际，也是在这个时候，我经常会在周末去扫辆共享单车，绕着海甸岛骑行，最多的时候，会连着骑行四十余分钟，能去的地方也都差不多去逛过了。
 
 这里的街道并不想新疆那般空旷，大多都是小巷，人来人往、车水马龙倒显得有几分拥挤了。城市快速路在校门口紧贴而过，与校区北边界平行而驰，横亘在学校与对面街铺之间，而彼此间唯一通行的天桥，在上面望去，天际线与消失与南边的海海平面重合 。饶是有一番景色。
-
-><div style="text-align: left;">
-><img src="https://image.luckixf.top/2026/04/26/overpass.jpg.webp" style="max-width: 300px; height: auto;object-fit: contain;" alt="天桥">
-></div>
+><img src="https://image.luckixf.top/2026/04/26/overpass.jpg.webp" style="max-width: 300px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="天桥">
 >
 >好吧，其实看不到海平面
 
 对于海南的总体评价还是热吧，不过偶尔气温骤降的时候还是挺冷的。
 
-> <div style="text-align: left;">
-> <img src="https://image.luckixf.top/2026/04/26/climate.png.webp" style="max-width: 300px; height: auto;object-fit: contain;" alt="气温图">
-> </div>
+> <img src="https://image.luckixf.top/2026/04/26/climate.png.webp" style="max-width: 300px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="气温图">
 
 ---
 
@@ -78,20 +73,20 @@ _`光阴荏苒，日月如梭，叹时光飞逝，季春将去`_
 
 ---
 
-><div style="display: flex; gap: 8px; flex-wrap: nowrap; justify-content: flex-start;"> 
-><img src="https://image.luckixf.top/2026/04/26/flower trees.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="花">
-><img src="https://image.luckixf.top/2026/04/26/blossom.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="花">
-></div>
+<div style="display: flex; gap: 8px; flex-wrap: nowrap; margin-bottom: 8px;"> 
+<img src="https://image.luckixf.top/2026/04/26/flower trees.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="花">
+<img src="https://image.luckixf.top/2026/04/26/blossom.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="花">
+</div>
 
-><div style="display: flex; gap: 8px; flex-wrap: nowrap; justify-content: flex-start;"> 
-><img src="https://image.luckixf.top/2026/04/26/anthemy.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="花">
-><img src="https://image.luckixf.top/2026/04/26/flower2.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="花">
-></div>
+<div style="display: flex; gap: 8px; flex-wrap: nowrap; margin-bottom: 8px;"> 
+<img src="https://image.luckixf.top/2026/04/26/anthemy.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="花">
+<img src="https://image.luckixf.top/2026/04/26/anthemy2.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="花">
+</div>
 
-><div style="display: flex; gap: 8px; flex-wrap: nowrap; justify-content: flex-start;"> 
-><img src="https://image.luckixf.top/2026/04/26/flower3.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="花">
-><img src="https://image.luckixf.top/2026/04/26/flower4.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain;" alt="花">
-></div>
+<div style="display: flex; gap: 8px; flex-wrap: nowrap;margin-bottom: 8px;"> 
+<img src="https://image.luckixf.top/2026/04/26/flower3.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="花">
+<img src="https://image.luckixf.top/2026/04/26/flower2.jpg.webp" style="width: 48%; max-width: 220px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="花">
+</div>
 
 
 拍的不是那么好，没构图，没调色，简单找了下角度，随手拍的罢了。
@@ -107,9 +102,8 @@ _`光阴荏苒，日月如梭，叹时光飞逝，季春将去`_
 
 *__最后再放两张图__*
 
-><div style="text-align: left;">
-><img src="https://image.luckixf.top/2026/04/26/a.jpg.webp" style="max-width: 300px; height: auto;object-fit: contain;" alt="海">
-><img src="https://image.luckixf.top/2026/04/26/b.jpg.webp" style="max-width: 300px; height: auto;object-fit: contain;" alt="楼">
-></div>
+><img src="https://image.luckixf.top/2026/04/26/a.jpg.webp" style="max-width: 300px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="海">
+><img src="https://image.luckixf.top/2026/04/26/b.jpg.webp" style="max-width: 300px; height: auto;object-fit: contain; margin-left: 0 !important;" alt="楼">
+
 **加油啊，少年**
 ᯠ  \_   ̫  \_ ̥ ᯄ ੭
