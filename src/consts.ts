@@ -2,7 +2,7 @@ import type { Metadata, Projects, Site, Socials, TechStack } from "@types";
 
 export const SITE: Site = {
 	NAME: "luckixf的blog",
-	EMAIL: "SzLiuXiangfu@outlook.com",
+	EMAIL: "hi@luckixf.top",
 	DESCRIPTION: "一个简洁轻量的 Astro 博客主题.",
 	NUM_POSTS_ON_HOMEPAGE: 4,
 	NUM_THOUGHTS_ON_HOMEPAGE: 3,
