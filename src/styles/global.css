@@ -1472,6 +1472,52 @@ article pre,
   box-shadow: var(--kawaii-shadow-soft);
 }
 
+article pre,
+.expressive-code .frame {
+  background: rgba(255, 222, 239, 0.16) !important;
+  color: var(--kawaii-text) !important;
+}
+
+.expressive-code .frame {
+  border: 1px solid var(--kawaii-border) !important;
+  border-radius: 1.1rem !important;
+  overflow: hidden;
+  backdrop-filter: blur(8px) saturate(1.04);
+  -webkit-backdrop-filter: blur(8px) saturate(1.04);
+}
+
+.expressive-code .frame pre {
+  border: 0 !important;
+  background: transparent !important;
+}
+
+.expressive-code .frame .header {
+  display: none;
+}
+
+.expressive-code .frame .code,
+.expressive-code .frame .ec-line,
+.expressive-code .frame span {
+  color: var(--0, var(--kawaii-text)) !important;
+}
+
+html.dark article pre,
+html.dark .expressive-code .frame {
+  background: rgba(255, 141, 194, 0.16) !important;
+  color: #fff7fc !important;
+}
+
+html.dark .expressive-code .frame pre {
+  background: transparent !important;
+}
+
+html.dark .expressive-code .frame .code,
+html.dark .expressive-code .frame .ec-line,
+html.dark .expressive-code .frame span,
+html.dark article pre code {
+  color: #fff7fc !important;
+}
+
 article table {
   border-radius: 1rem;
   background: var(--kawaii-surface);
