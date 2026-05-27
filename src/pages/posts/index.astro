@@ -49,12 +49,12 @@ const years = Object.keys(posts).sort((a, b) => parseInt(b) - parseInt(a))
                     {posts[year].length} 篇
                   </span>
                 </div>
-                <ul class="space-y-2 border-l-2 border-stone-200 pl-6 dark:border-stone-800">
+                <ul class="space-y-2">
                   {posts[year].map((post) => (
                     <li class="min-w-0">
                       <a
                         href={`/${post.data.slug || post.id}`}
-                        class="group -ml-6 flex flex-col gap-2 rounded-r-lg border-l-2 border-transparent py-2.5 pr-3 pl-6 transition-all duration-300 hover:border-stone-400 hover:bg-stone-100/50 sm:flex-row sm:items-baseline sm:gap-4 dark:hover:border-stone-500 dark:hover:bg-stone-800/50"
+                        class="flex flex-col gap-2 py-2.5 transition-colors duration-200 sm:flex-row sm:items-baseline sm:gap-4"
                       >
                         <span class="flex items-center gap-2 font-mono text-xs text-stone-500 sm:text-sm dark:text-stone-500">
                           <span>{formatMD(post.data.date)}</span>
@@ -65,7 +65,7 @@ const years = Object.keys(posts).sort((a, b) => parseInt(b) - parseInt(a))
                             {readingTime(post.body ?? "")}
                           </span>
                         </span>
-                        <span class="flex-1 font-medium text-stone-800 transition-colors duration-300 group-hover:text-stone-950 dark:text-stone-200 dark:group-hover:text-stone-50">
+                        <span class="flex-1 font-medium text-stone-800 transition-colors duration-200 dark:text-stone-200">
                           {post.data.title}
                         </span>
                         <span class="hidden text-sm text-stone-500 sm:inline dark:text-stone-500">
